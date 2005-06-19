@@ -9,7 +9,7 @@ Summary:	Net::CIDR - manipulate IPv4/IPv6 netblocks in CIDR notation
 Summary(pl):	Net::CIDR - przetwarzanie bloków sieci IPv4/IPv6 w notacji CIDR
 Name:		perl-Net-CIDR
 Version:	0.10
-Release:	0.1
+Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
