@@ -6,7 +6,7 @@
 %define	pdir	Net
 %define	pnam	CIDR
 Summary:	Net::CIDR - manipulate IPv4/IPv6 netblocks in CIDR notation
-Summary(pl):	Net::CIDR - przetwarzanie bloków sieci IPv4/IPv6 w notacji CIDR
+Summary(pl.UTF-8):   Net::CIDR - przetwarzanie blokÃ³w sieci IPv4/IPv6 w notacji CIDR
 Name:		perl-Net-CIDR
 Version:	0.11
 Release:	1
@@ -25,9 +25,9 @@ The Net::CIDR package contains functions that manipulate lists of IP
 netblocks expressed in CIDR notation. The Net::CIDR functions handle
 both IPv4 and IPv6 addresses.
 
-%description -l pl
-Pakiet Net::CIDR zawiera funkcje przetwarzaj±ce listy bloków sieci IP
-zapisanych w notacji CIDR. Funkcje Net::CIDR obs³uguj± adresy IPv4 i
+%description -l pl.UTF-8
+Pakiet Net::CIDR zawiera funkcje przetwarzajÄ…ce listy blokÃ³w sieci IP
+zapisanych w notacji CIDR. Funkcje Net::CIDR obsÅ‚ugujÄ… adresy IPv4 i
 IPv6.
 
 %prep
