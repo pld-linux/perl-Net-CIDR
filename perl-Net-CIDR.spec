@@ -6,7 +6,7 @@
 %define	pdir	Net
 %define	pnam	CIDR
 Summary:	Net::CIDR - manipulate IPv4/IPv6 netblocks in CIDR notation
-Summary(pl.UTF-8):   Net::CIDR - przetwarzanie bloków sieci IPv4/IPv6 w notacji CIDR
+Summary(pl.UTF-8):	Net::CIDR - przetwarzanie bloków sieci IPv4/IPv6 w notacji CIDR
 Name:		perl-Net-CIDR
 Version:	0.11
 Release:	1
